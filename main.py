@@ -29,7 +29,7 @@ def get_num(prompt):
 
 def main():
 #Asks user for operation, then executes.
-    print("🖩Calculator🖩 (+, -, *, /). Type 'q' to quit.\n")
+    print("🖩Calculator🖩 🖩(+, -, *, /). Type 'q' to quit.🖩\n")
 
     while True:
         #Ask for operation
